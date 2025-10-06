@@ -6,7 +6,7 @@ I am an AWS Cloud Engineer focused on building secure, reliable, and scalable so
 
  ## Skills
 - AWS: EC2, RDS, S3, VPC, Cloudwatch, IAM, DynamoDB,ETC 
-- Linux, Bash, Git
+- Linux, Bash, Git, Terraform
 
 ## Featured Projects
 - Two Tier Web Application Deployment
