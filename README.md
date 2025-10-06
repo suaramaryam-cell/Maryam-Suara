@@ -6,12 +6,14 @@ I am an AWS Cloud Engineer focused on building secure, reliable, and scalable so
 
  ## Skills
 - AWS: EC2, RDS, S3, VPC, Cloudwatch, IAM, DynamoDB,ETC 
-- Linux, Bash, Git, Terraform
+- Linux, Bash, Git, Terraform, Kubernetes
 
 ## Featured Projects
-- Two Tier Web Application Deployment
-- Partyrock AI App
-
+- Three-tier web Architecture: https://github.com/suaramaryam-cell/Three-Tier-web-using-Terraform
+- Two-tier web Architecture: https://github.com/suaramaryam-cell/Two-Tier-Web-Application
+- CSV data pipeline: https://github.com/suaramaryam-cell/AWS-CSV-Data-Pipeline
+- PartyRock AI App: https://github.com/suaramaryam-cell/Partyrock-AI-App
 
  Email: suaramaryam@gmail.com
- LinkedIn:www.linkedin.com/in/maryam-suara-31191b293 
+ 
+ LinkedIn:www.linkedin.com/in/maryam-suara 
